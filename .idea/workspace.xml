@@ -52,7 +52,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -87,8 +87,16 @@
       <workItem from="1653634438300" duration="10839000" />
       <workItem from="1653738816629" duration="808000" />
       <workItem from="1653746190469" duration="9055000" />
-      <workItem from="1653804966141" duration="10957000" />
+      <workItem from="1653804966141" duration="11636000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1653822212708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653822212708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653316712527">
@@ -123,10 +135,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653474902439" />
-    <state x="834" y="418" key="Github.ShareDialog" timestamp="1653822029211">
+    <state x="834" y="418" key="Github.ShareDialog" timestamp="1653822433278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="834" y="418" key="Github.ShareDialog/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653822029211" />
+    <state x="834" y="418" key="Github.ShareDialog/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653822433278" />
     <state x="683" y="218" key="Github.UntrackedFilesDialog" timestamp="1653315442842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -163,14 +175,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653808282072" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1653475142420">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1653822390694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653475142420" />
+    <state x="461" y="165" key="SettingsEditor/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653822390694" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1653579592437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653579592437" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1653822188231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.418.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1653822188231" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653746193030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
